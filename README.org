@@ -1,0 +1,9 @@
+* proc-parse
+
+Procedural vector parser
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/fukamachi/proc-parse.git |
+| commit  | 3afe2b7                                         |
+| systems | proc-parse                                      |
+|---------+-------------------------------------------------|
